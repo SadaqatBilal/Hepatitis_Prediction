@@ -16,7 +16,7 @@ Usage
 Clone this repository to your local machine.
 bash
 Copy code
-git clone https://github.com/your-username/hepatitis-alert-prediction.git
+git clone https://github.com/SadaqatBilal/hepatitis-alert-prediction.git
 Navigate to the project directory.
 bash
 Copy code
@@ -59,6 +59,6 @@ This project was inspired by the need to improve the diagnostic process for hepa
 
 Feel free to reach out if you have any questions or suggestions!
 
-Maintainer: Your Name
+Maintainer: Sadaqat Bilal
 
-Email: your-email@example.com
+Email: sadaqatbilal297@gmail.com
